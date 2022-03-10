@@ -18,6 +18,9 @@
 					<div class="box">
 						Hello, <strong th:text="${#authentication.principal.email}"></strong>
 					</div>
+					<div class="box">
+						<a th:href="@{/artigos}" class="button is-primary">Listar artigos</a>
+					</div>
 				</div>
 				
                 <div sec:authorize="isAuthenticated()">

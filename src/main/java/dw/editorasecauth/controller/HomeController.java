@@ -14,5 +14,5 @@ class HomeController {
     @GetMapping("/")
     String index() {
             return "index.html";
-    }    
+    }
 }
