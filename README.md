@@ -15,6 +15,8 @@ Trabalho realizado para a disciplina de Desenvolvimento Web da UEPG, que consist
 - MySql WorkBench 
 - Visual Studio Code 
 - Git
+- Bootstrap 4
+- Font-Awesome
 
 ## Como criar o projeto Spring
 Utilizando a plataforma (https://start.spring.io/), conseguimos realizar o download de um zip contendo a estrutura inicial do nosso projeto a ser desenvolvido, adicionando as seguintes dependências: <br />
